@@ -1,3 +1,5 @@
 # CPU-Scheduling-Simulator
-A desktop application to simulate CPU Scheduling Algorithms in Python
-Check doc.pdf for Documentation 
+ <ul>
+ <li>A desktop application to simulate CPU Scheduling Algorithms in Python</li>
+<li>Check doc.pdf for Documentation</li> 
+</ul>
